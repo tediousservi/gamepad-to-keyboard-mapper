@@ -1,8 +1,12 @@
-# PadVolt — Gamepad to Keyboard Mapper for Windows
+# PadVolt — pad-first gamepad to keyboard mapping for Windows
 
-If your pad sits useless because the game only reads keyboard and mouse, padvolt bridges that gap. It watches your controller and fires real keyboard and mouse events into the focused window on Windows 10 and Windows 11, free, no account, no watermark.
+PadVolt is a gamepad to keyboard tool built for people who live on the controller and want every PC game, launcher and browser tab to accept pad input. It watches your controller and fires real keyboard and mouse events into the focused window on Windows 10 and Windows 11, free, no account, no watermark.
 
 ![PadVolt controller mapping panel](screenshot.png)
+
+## Why PadVolt as your gamepad to keyboard mapper?
+
+PadVolt is written pad-first: you pick up the controller, open a profile, and the layout is already thinking in face buttons, sticks and triggers rather than asking you to translate from a keyboard mental model. That makes it the right pick if the pad is your main input device and the keyboard is the fallback — opposite of the usual "keyboard gamer who occasionally plugs in a stick" workflow.
 
 ## Download for Windows
 
